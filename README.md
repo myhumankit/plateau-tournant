@@ -1,4 +1,7 @@
 # Plateau tournant
+![proto](https://img.shields.io/badge/proto-en%20cours-orange.svg "proto")
+![doc](https://img.shields.io/badge/doc-en%20cours-orange.svg "doc")
+
 Plateau tournant motorisé pour photographier sous différents angles un objet. 
 
 ![featured_image](images/mhk_logotype.png)
