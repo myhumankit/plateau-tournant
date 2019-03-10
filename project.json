@@ -2,36 +2,33 @@
     "project": {
         "full_name": "Plateau tournant",
         "slug": "plateau-tournant",
-        "short_description": "Plateau tournant motorisé pour photographier sous différents angles un objet. ",
+        "short_description": "Plateau tournant motorisé pour photographier sous différents angles un objet.",
         "lang": "fr",
-        "version": "0.1.0",
-        "featured_image": {
-            "url": "images/mhk_logotype.png"
-        },
+        "license": "CC BY",
+        "about": "Plateau tournant motorisé pour photographier sous différents angles un objet.",
         "links": [
             {
                 "url": "https://rennes.humanlab.me/projet/plateau-tournant/",
-                "title": "page d'accueil du projet sur le GesLab",
+                "text": "page d'accueil du projet sur le GesLab",
                 "fa5_icon": "fas fa-home"
             },
             {
                 "url": "http://wikilab.myhumankit.org/index.php?title=Projets:Plateau_tournant",
-                "title": "page wiki du projet sur le wiki du Humanlab",
+                "text": "page wiki du projet sur le wiki du Humanlab",
                 "fa5_icon": "fab fa-wikipedia-w"
             },
-            
             {
                 "url": "https://github.com/myhumankit/plateau-tournant",
-                "title": "code source de la documentation sur GitHub",
+                "text": "code source de la documentation sur GitHub",
                 "fa5_icon": "fab fa-github"
             }
         ],
         "contributors": [
             {
                 "full_name": "Delphine Bézier",
+                "role": "Fabmanager référent",
                 "email": "delphine@myhumankit.org",
-                "github_username": "mnct",
-                "role": "Fabmanager référent"
+                "github_username": "mnct"
             }
         ]
     }
